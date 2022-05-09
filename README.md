@@ -4,7 +4,7 @@ A Simple app which displays information on amphibians.
 
 This is an idependent project of the [Android Basics in Kotlin] course from Google. It is developed in [Unit 4] [Pathway 2]
 
-This app is based on the [Use RecyclerView to display a scrollable list] Codelab.
+This app is based on the [Project Amphibians app] Codelab.
 
 [Android Basics in Kotlin]: https://developer.android.com/courses/android-basics-kotlin/course
 [Unit 4]: https://developer.android.com/courses/android-basics-kotlin/unit-4
