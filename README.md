@@ -11,14 +11,19 @@ This app is based on the [Project Amphibians app] Codelab.
 [Pathway 2]: https://developer.android.com/courses/pathways/android-basics-kotlin-unit-4-pathway-2
 [Project Amphibians app]: https://developer.android.com/codelabs/basic-android-kotlin-training-project-amphibians
 
-----
+---
 
 Environment
 
-- Kotlin 1.7.10
-- Android Studio Chipmunk 2021.2.1
-- Gradle Plugin 7.2.2
+- Kotlin 1.7.20
+- Android Studio Dolphin 2021.3.1
+- Gradle Plugin 7.3.1
 
-----
+---
 
-updated: 2022-08-20
+```
+language: kotlin
+repo: amphibians
+status: archived
+updated: 2022-12-03
+```
