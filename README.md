@@ -15,7 +15,7 @@ This app is based on the [Project Amphibians app] Codelab.
 
 Environment
 
-- Kotlin 1.8.10
+- Kotlin 1.8.20
 - Android Studio Flamingo 2022.2.1
 - Gradle Plugin 8.0.0
 
@@ -25,5 +25,5 @@ Environment
 language: kotlin
 repo: amphibians
 status: archived
-updated: 2023-04-14
+updated: 2023-05-03
 ```
